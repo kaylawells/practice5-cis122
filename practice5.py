@@ -43,7 +43,7 @@ def main():
 
         run_again = input("Would you like to run the program again? (y/n): ")
 
-    
+    print_goodbye()
 
 def get_number():
     """Prompt the user to enter a number.
@@ -100,3 +100,4 @@ def goodbye
     print("Good luck and have a great day!")
 
 main()
+
