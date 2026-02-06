@@ -96,8 +96,9 @@ def display_results(total, average, minimum, maximum):
     print(f"Minimum: {minimum}")
     print(f"Maximum: {maximum}")
 
-def goodbye
+def goodbye():
     print("Good luck and have a great day!")
 
 main()
+
 
