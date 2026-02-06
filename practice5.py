@@ -43,7 +43,7 @@ def main():
 
         run_again = input("Would you like to run the program again? (y/n): ")
 
-    print("Good luck and have a great day!")
+    
 
 def get_number():
     """Prompt the user to enter a number.
@@ -96,6 +96,7 @@ def display_results(total, average, minimum, maximum):
     print(f"Minimum: {minimum}")
     print(f"Maximum: {maximum}")
 
-def 
+def goodbye
+    print("Good luck and have a great day!")
 
 main()
